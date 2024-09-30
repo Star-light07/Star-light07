@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarah
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning React, Rust and Solidity
+- 🌱 I’m currently Solidity 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/sarahkakos/ 
 
