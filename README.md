@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Sarah
-- 👀 I’m interested in learning
-- 🌱 I’m currently Solidity 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/sarahkakos/ 
+- 👋 Hi, Sarah here😊
+- 🌱 I’m currently learning Solidity Auditing
+- 📫 Reach me on Discord #sniper_angel
 
 <!---
 Star-light07/Star-light07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
